@@ -23,6 +23,7 @@ nav {
 
 .splash {
     background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
     height: 700px;
     display: flex;
@@ -51,6 +52,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 10px;
 }
 
 /* HERO IMAGES */
@@ -78,8 +80,8 @@ nav {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .content .box {
